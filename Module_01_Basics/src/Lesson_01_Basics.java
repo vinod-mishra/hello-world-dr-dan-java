@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Hello World with Dr. Dan - A Complete Introduction to Programming from Java to C++ (Code and Course © Dan Grissom)
+// Hello World with Dr. Dan - A Complete Introduction to Programming from Java to C++ (Code and Course ï¿½ Dan Grissom)
 //
 // Additional Lesson Resources from Dr. Dan:
 // 		High-Quality Video Tutorials: www.helloDrDan.com
@@ -26,8 +26,8 @@ public class Lesson_01_Basics {
 
 		// Variable test and output
 		String name = "Dr. Dan";
-		int numWorkDays = 5;
-		int numWeekendDays = 2;
+		int numWorkDays = 6;
+		int numWeekendDays = 1;
 		int numDaysInWeek = numWorkDays + numWeekendDays;
 		
 		// Print out variables in output
